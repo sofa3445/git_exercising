@@ -1,0 +1,23 @@
+This is a quick summery of pyTorch tutorial video.
+#You can see the video at 'https://youtu.be/u7x8RXwLKcA'.
+
+pyTorch is one of the most populer open source deep learning frameworks. 
+It has features as 'fast', 'flexible experimentation' and 'seamless'. 
+Seamless means the seamless transition to production deployment.
+
+pyTorch is built to use the power of GPU for faster training and us python for easy starting.
+We can start pyTorch by '60 minute blitz' authored by Soumith Chintala.
+The goals of this tutorial are
+1. 'Understanding PyTorch's Tensor library and neural networks at a high level'
+2. 'Train a small neural network to classify images'
+
+For this course, we should have a basic understanding of 'numPy'.
+
+This course has five modules;
+1. What is PyTorch
+2. Autograd: Automatic Differentiation
+3. Neural Networks
+4. Training a Classifier
+5. (Optional) Data Parallelism
+
+So, let's get start.
